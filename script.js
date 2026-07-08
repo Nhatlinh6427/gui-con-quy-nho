@@ -253,7 +253,7 @@ loveBtn.addEventListener("click",()=>{
 
 
     loveBtn.innerHTML=
-    "💖 Tao đục thiệt đó tr 💖";
+    "💖 Anh sẽ luôn bên em 💖";
 
 
 });
